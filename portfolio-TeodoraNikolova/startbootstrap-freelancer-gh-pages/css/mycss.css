@@ -1,0 +1,12 @@
+#profile {
+    width: 135px;
+    height: 148px;
+    border-radius: 5px;
+
+
+
+}
+
+.navbar-custom .navbar-nav li a:hover{
+    border-radius: 5px;
+}
